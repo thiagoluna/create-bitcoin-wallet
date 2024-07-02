@@ -10,6 +10,7 @@ This project was developed with the technologies below:
 - Lib bip32
 - Lib bip39
 - Lib bitcoinjs-lib
+- [Electrum](https://electrum.org/)
 
 ## 💻 Project
 
@@ -19,6 +20,12 @@ linked on Electrum to manage the transactions.
 
 I use https://coinfaucet.eu/en/btc-testnet/ to send tBTC to my wallet.  
 I see the transactions on https://live.blockcypher.com/btc-testnet/  
+
+### Run Electrum in Testnet  
+
+```
+python3 Electrum-4.5.5/run_electrum --testnet
+```
 
 ## About Me
 I am a Senior Software Developer with more than 10 years of experience developing software with high standards and 
