@@ -14,8 +14,8 @@ This project was developed with the technologies below:
 ## 💻 Project
 
 This project allows to create a Bitcoin Wallet on Bitcoin Blockchain.  
-The code is simple but functional. The Wallet was created in Bitcoin-Faucet and linked on Electrum to manage the 
-transactions.
+The code is simple but functional. The Wallet was created in Bitcoin Testnet Faucet (bitcoin.networks.testnet) and 
+linked on Electrum to manage the transactions.
 
 I use https://coinfaucet.eu/en/btc-testnet/ to send tBTC to my wallet.  
 I see the transactions on https://live.blockcypher.com/btc-testnet/  
